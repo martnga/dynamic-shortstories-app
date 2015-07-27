@@ -18,10 +18,10 @@
         android:label="@string/app_name" >
         <meta-data
             android:name="com.parse.APPLICATION_ID"
-            android:value="BcmTT2aLE3JD0DMAIIO7biCHICWiWlViTNTTY4lf" />
+            android:value="QiHZI34itT3tc2BOF9JTTD83dFEQYSYnelxw1qXU" />
         <meta-data
             android:name="com.parse.CLIENT_KEY"
-            android:value="QiHZI34itT3tc2BOF9JTTD83dFEQYSYnelxw1qXU" />
+            android:value="BcmTT2aLE3JD0DMAIIO7biCHICWiWlViTNTTY4lf" />
 
         <activity
             android:name="com.parse.starter.ParseStarterProjectActivity"

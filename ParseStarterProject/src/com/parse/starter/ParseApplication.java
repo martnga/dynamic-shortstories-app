@@ -21,7 +21,7 @@ public class ParseApplication extends Application {
 
     // Enable Local Datastore.
     Parse.enableLocalDatastore(this);
-    ParseObject.registerSubclass(TestObject.class);
+    ParseObject.registerSubclass(Stories.class);
     Parse.initialize(this, "QiHZI34itT3tc2BOF9JTTD83dFEQYSYnelxw1qXU", "BcmTT2aLE3JD0DMAIIO7biCHICWiWlViTNTTY4lf");
 
     // Add your initialization code here
