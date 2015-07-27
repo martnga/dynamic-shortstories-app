@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/wolfieorama/Desktop/Parse-Starter-Project-1.9.4/ParseStarterProject/libs/ParseCrashReporting-1.9.4.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="7a11f2d74111fd9b02c2d091a1b76b82f6a4357e">
+        <dex dex="/home/wolfieorama/Desktop/Parse-Starter-Project-1.9.4/ParseStarterProject/build/intermediates/pre-dexed/debug/ParseCrashReporting-1.9.4-514f80f4893f89b727772e7b8dd9dc9b85d5269c.jar" />
+    </item>
+    <item
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-android/1.2.0/6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd/bolts-android-1.2.0.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd">
+        <dex dex="/home/wolfieorama/Desktop/Parse-Starter-Project-1.9.4/ParseStarterProject/build/intermediates/pre-dexed/debug/bolts-android-1.2.0-82e7c0fc75e5c03712beb01b3317fbdb847c930e.jar" />
+    </item>
+    <item
+        jar="/home/wolfieorama/Desktop/Parse-Starter-Project-1.9.4/ParseStarterProject/libs/Parse-1.9.4.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="56c22930b5d4f77015b6a40c7f14103d3e101001">
+        <dex dex="/home/wolfieorama/Desktop/Parse-Starter-Project-1.9.4/ParseStarterProject/build/intermediates/pre-dexed/debug/Parse-1.9.4-933738020036d8f0dea92eb8446befe11cd5dff4.jar" />
+    </item>
+
+</items>
